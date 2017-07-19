@@ -1,3 +1,11 @@
-*/data/
-*/osm2pgsql/
-*/website/images
+data/
+osm2pgsql/
+website/*
+AUTHORS
+COPYING
+ChangeLog
+INSTALL
+NEWS
+Vagrantfile
+install-sh
+vagrant/
